@@ -17,8 +17,8 @@ import doctorMurphy   from "@/assets/doctor-murphy.jpg";
 export const PRACTICE = {
   name:        "Chesapeake Dental Group",
   displayName: "Baltimore Uptown Dentist",   // shown in nav bar
-  tagline:     "SMILE WITH CONFIDENCE",
-  subTagline:  "Precision dentistry with the latest technology — CEREC same-day crowns, dental implants, cosmetic dentistry & more in Roland Park, Baltimore",
+  tagline:     "Smile With Confidence",
+  subTagline:  "Precision dentistry with the latest technology",
   established: "Roland Park, Baltimore",
   formerly:    "Dr. K Michael Murphy & Associates", // set "" if not applicable
 };
@@ -51,7 +51,6 @@ export const SOCIAL = [
   { label: "Facebook",      href: "https://facebook.com/BaltimoreUptownDentist1/" },
   { label: "YouTube",       href: "https://youtube.com/user/baltimoredentist" },
   { label: "Google Reviews",href: "https://www.google.com/search?q=Baltimore+Uptown+Dentist+reviews" },
-  { label: "Yelp",          href: "https://www.yelp.com/biz/chesapeake-dental-group-baltimore" },
 ];
 
 // ── AFFILIATIONS ──────────────────────────────────────────────
