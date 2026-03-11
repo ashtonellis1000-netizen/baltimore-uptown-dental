@@ -40,11 +40,12 @@ const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const links = [
-    { href: "/services", label: "Services" },
-    { href: "/doctors",  label: "Doctors" },
-    { href: "/about",    label: "About" },
-    { href: "/blog",     label: "Blog" },
-    { href: "/contact",  label: "Contact" },
+    { href: "/services",  label: "Services" },
+    { href: "/doctors",   label: "Doctors" },
+    { href: "/about",     label: "About" },
+    { href: "/patients",  label: "Patients" },
+    { href: "/blog",      label: "Blog" },
+    { href: "/contact",   label: "Contact" },
   ];
 
   return (
